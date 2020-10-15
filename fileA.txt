@@ -1,1 +1,2 @@
-File A text
+File A text - amended in branch x
+Text added in branch X
