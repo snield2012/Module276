@@ -1,3 +1,4 @@
 File A text - amended in branch x
 Text added in branch X
 text added again
+more text
